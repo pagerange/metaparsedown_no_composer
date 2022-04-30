@@ -18,9 +18,9 @@ MetaParsedown is also available as a [Composer package](https://packagist.org/pa
 
 ### Installation
 
-1. Download [the zip file](https://github.com/pagerange/metaparsedown_no_composer) from the Github repository.
+1. Download [the zip file](https://github.com/pagerange/metaparsedown_no_composer/archive/refs/heads/master.zip) from the Github repository.
 
-2. Save the extracted folder where you normally store files for inclusion in your project.
+2. Save and rename the extracted folder wherever you normally store files for inclusion in your project.
 
 
 ### Usage
